@@ -1,0 +1,54 @@
+Q1. Total matches
+total_matches
+6
+
+Q2. Matches involving KKR
+kkr_matches
+6
+
+Q3. Total KKR wins
+kkr_wins
+4
+
+Q4. KKR win percentage
+wins | matches_played | win_percentage
+4 | 6 | 66.67
+
+Q5. Matches per season
+season | total_matches
+2022 | 2
+2023 | 2
+2024 | 2
+
+Q6. KKR wins per season
+season | kkr_wins
+2022 | 1
+2023 | 1
+2024 | 2
+
+Q7. Matches won by each team
+winner | total_wins
+KKR | 4
+RR | 1
+CSK | 1
+
+Q8. Top 5 venues
+venue | total_matches
+Mumbai | 2
+Eden Gardens | 2
+Chennai | 1
+Bengaluru | 1
+
+Q9. Top 5 cities
+city | total_matches
+Mumbai | 2
+Kolkata | 2
+Chennai | 1
+Bengaluru | 1
+
+Q10. Top 3 seasons for KKR wins
+season | kkr_wins
+2024 | 2
+2023 | 1
+2022 | 1
+
